@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/app.ts",
+    "dev": "nodemon src/index.ts",
     "compile": "tsc",
-    "start": "node dist/app.js",
+    "start": "node dist/index.js",
     "clean": "rm -rv dist"
   },
   "keywords": [],
